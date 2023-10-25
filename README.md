@@ -1,7 +1,7 @@
 - 👋 Yo itsa me @cflanns its not a mario reference
 - 👀 I’m intersted in learning C#
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on cyber patriots
+- 💞️ I’m looking to work on cyber patriots, I might add code but its for my group although if you dont live in pa use it
 
 
 <!---
